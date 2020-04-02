@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "314776478372",
+    "firebase_url": "https://movapp-f65ca.firebaseio.com",
+    "project_id": "movapp-f65ca",
+    "storage_bucket": "movapp-f65ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314776478372:android:a10592c1e1506e73353c31",
+        "android_client_info": {
+          "package_name": "com.dzakatechstudio.movapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314776478372-r70bp92echc862mnf9ab3k03oksdf131.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjxNSFlsncdyO2d1LRqFXl2toZd0coXEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314776478372-r70bp92echc862mnf9ab3k03oksdf131.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
