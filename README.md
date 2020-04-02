@@ -1,5 +1,5 @@
-# BWAMov
-ini adalah project class build with angga bersama robby dianputra, kelas ini membahas mengenai cara mendevelopment aplikasi android mulai dari design
+# MovApp
+Aplikasi Android untuk pemesananan tiket bioskop yang di desain simpel dan modern.
 
 ## Fiture
 1. Splashscreen
@@ -11,4 +11,4 @@ ini adalah project class build with angga bersama robby dianputra, kelas ini mem
 1. Firebase
 
 ## Source
-Robby Dianputra
+Davis Rifandi
